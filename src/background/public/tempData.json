@@ -1,0 +1,201 @@
+{
+    "c1": {
+        "name": "C1 name",
+        "description": "This is a test description",
+        "tasks": [
+            {
+                "order": 1,
+                "name": "First task",
+                "description": "This is the first task description",
+                "steps": [
+                    {
+                        "order": 1,
+                        "name": "step1",
+                        "description": "Fist step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div.title",
+                            "text": "Web App & API Protection",
+                            "up": 2
+                        }                        
+                    },
+                    {
+                        "order": 2,
+                        "name": "step2",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "span",
+                            "text": "Load Balancers",
+                            "up": 1
+                        }                        
+                    },
+                    {
+                        "order": 3,
+                        "name": "step3",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "span.ng-star-inserted[ves-e2e-name]",
+                            "text": "HTTP Load Balancers",
+                            "up": 1
+                        }                        
+                    },
+                    {
+                        "order": 4,
+                        "name": "step4",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div",
+                            "text": "Add HTTP load balancer",
+                            "up": 4
+                        }                        
+                    },
+                    {
+                        "order": 5,
+                        "name": "step5",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div > span",
+                            "text": "Name",
+                            "up": 2
+                        }                        
+                    }
+                ]
+            },
+            {
+                "order": 2,
+                "name": "Second task",
+                "description": "task description",
+                "steps": [
+                    {
+                        "order": 1,
+                        "name": "step1",
+                        "description": "Fist step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div.title",
+                            "text": "Web App & API Protection",
+                            "up": 2
+                        }                        
+                    },
+                    {
+                        "order": 2,
+                        "name": "step2",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "span",
+                            "text": "Load Balancers",
+                            "up": 1
+                        }                        
+                    },
+                    {
+                        "order": 3,
+                        "name": "step3",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "span.ng-star-inserted[ves-e2e-name]",
+                            "text": "HTTP Load Balancers",
+                            "up": 1
+                        }                        
+                    },
+                    {
+                        "order": 4,
+                        "name": "step4",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div",
+                            "text": "Add HTTP load balancer",
+                            "up": 4
+                        }                        
+                    },
+                    {
+                        "order": 5,
+                        "name": "step5",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div > span",
+                            "text": "Name",
+                            "up": 2
+                        }                        
+                    }
+                ]
+            }
+        ]
+    },
+    "c2": {
+        "name": "C2 name",
+        "description": "This is a test description",
+        "tasks": [
+            {
+                "order": 1,
+                "name": "First task",
+                "description": "This is the first task description",
+                "steps": [
+                    {
+                        "order": 1,
+                        "name": "step1",
+                        "description": "Fist step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div.title",
+                            "text": "Web App & API Protection",
+                            "up": 2
+                        }                        
+                    },
+                    {
+                        "order": 2,
+                        "name": "step2",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "span",
+                            "text": "Load Balancers",
+                            "up": 1
+                        }                        
+                    },
+                    {
+                        "order": 3,
+                        "name": "step3",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "span.ng-star-inserted[ves-e2e-name]",
+                            "text": "HTTP Load Balancers",
+                            "up": 1
+                        }                        
+                    },
+                    {
+                        "order": 4,
+                        "name": "step4",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div",
+                            "text": "Add HTTP load balancer",
+                            "up": 4
+                        }                        
+                    },
+                    {
+                        "order": 5,
+                        "name": "step5",
+                        "description": "Step description",
+                        "selector": {
+                            "url": "",
+                            "type": "div > span",
+                            "text": "Name",
+                            "up": 2
+                        }                        
+                    }
+                ]
+            }
+        ]
+
+    }
+}
